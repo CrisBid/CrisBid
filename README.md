@@ -80,7 +80,7 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 
 <div align="center">
 
-  <!-- Card 1 -->
+  <!-- Card 1 - Amigos de Minas Backend -->
   <div
     style="
       display: inline-block;
@@ -94,28 +94,24 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
       background: linear-gradient(145deg, #111827, #020617);
     "
   >
-    <h3 style="margin: 0 0 8px 0;">Amigos de Minas</h3>
+    <h3 style="margin: 0 0 8px 0;">Amigos de Minas — Backend</h3>
     <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
-      Plataforma de apadrinhamento de crianças e gestão de projetos sociais
-      para a ONG Amigos de Minas.
+      API principal da plataforma de apadrinhamento da ONG.  
+      Gerencia usuários, doações, comunidades, crianças e integrações internas.
     </p>
     <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
-      <strong>Stack:</strong> Next.js, NestJS, Prisma, PostgreSQL, Tailwind, Docker
+      <strong>Stack:</strong> NestJS, TypeScript, Prisma, PostgreSQL, Docker
     </p>
     <a
-      href="https://github.com/CrisBid/amigos-de-minas"
+      href="https://github.com/CrisBid/Amigos_de_Minas-Backend"
       target="_blank"
-      style="
-        font-size: 0.85rem;
-        color: #38bdf8;
-        text-decoration: none;
-      "
+      style="font-size: 0.85rem; color: #38bdf8; text-decoration: none;"
     >
       🔗 Ver repositório
     </a>
   </div>
 
-  <!-- Card 2 -->
+  <!-- Card 2 - Amigos de Minas Frontend -->
   <div
     style="
       display: inline-block;
@@ -129,28 +125,24 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
       background: linear-gradient(145deg, #111827, #020617);
     "
   >
-    <h3 style="margin: 0 0 8px 0;">SGAIA ERP</h3>
+    <h3 style="margin: 0 0 8px 0;">Amigos de Minas — Frontend</h3>
     <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
-      Sistema de Gestão e Automação Inteligente para o Agronegócio,
-      com arquitetura de microsserviços.
+      Interface da plataforma de apadrinhamento, com área institucional,  
+      sistema de apadrinhamento e páginas informativas.
     </p>
     <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
-      <strong>Stack:</strong> NestJS, Node.js, PostgreSQL, RabbitMQ, Tauri, React
+      <strong>Stack:</strong> Next.js, TypeScript, TailwindCSS, SSR/CSR
     </p>
     <a
-      href="https://github.com/CrisBid/sgaia"
+      href="https://github.com/CrisBid/Amigos_de_Minas-Frontend"
       target="_blank"
-      style="
-        font-size: 0.85rem;
-        color: #38bdf8;
-        text-decoration: none;
-      "
+      style="font-size: 0.85rem; color: #38bdf8; text-decoration: none;"
     >
       🔗 Ver repositório
     </a>
   </div>
 
-  <!-- Card 3 -->
+  <!-- Card 3 - Core Banking System -->
   <div
     style="
       display: inline-block;
@@ -164,28 +156,24 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
       background: linear-gradient(145deg, #111827, #020617);
     "
   >
-    <h3 style="margin: 0 0 8px 0;">Molion Dashboard</h3>
+    <h3 style="margin: 0 0 8px 0;">Core Banking System — PIX</h3>
     <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
-      Dashboard climático para análise de ciclos, anomalias e séries históricas,
-      apoiando decisões no agronegócio.
+      Sistema bancário modular que simula a lógica do Banco Central no PIX,  
+      utilizando microsserviços, alta escalabilidade e mensageria.
     </p>
     <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
-      <strong>Stack:</strong> React, Next.js, APIs climáticas, Charts, PostgreSQL
+      <strong>Stack:</strong> FastAPI, Python, Docker, Kubernetes, Microservices
     </p>
     <a
-      href="https://github.com/CrisBid/molion-dashboard"
+      href="https://github.com/CrisBid/Core_Banking_System-SIN142"
       target="_blank"
-      style="
-        font-size: 0.85rem;
-        color: #38bdf8;
-        text-decoration: none;
-      "
+      style="font-size: 0.85rem; color: #38bdf8; text-decoration: none;"
     >
       🔗 Ver repositório
     </a>
   </div>
 
-  <!-- Card 4 -->
+  <!-- Card 4 - Pacman C++ -->
   <div
     style="
       display: inline-block;
@@ -199,22 +187,18 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
       background: linear-gradient(145deg, #111827, #020617);
     "
   >
-    <h3 style="margin: 0 0 8px 0;">Upgradable Factories (FS Mod)</h3>
+    <h3 style="margin: 0 0 8px 0;">Pacman em C++ (Orientado a Objetos)</h3>
     <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
-      Mod para Farming Simulator com sistema de melhoria de fábricas,
-      aumentando níveis de produção e armazenamento.
+      Jogo estilo Pac-Man com tema de League of Legends, desenvolvido em C++  
+      utilizando Allegro e princípios sólidos de POO.
     </p>
     <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
-      <strong>Stack:</strong> Lua, XML, Game Modding, Otimização de gameplay
+      <strong>Stack:</strong> C++, Allegro, OOP, Game Loop Architecture
     </p>
     <a
-      href="https://github.com/CrisBid/fs-upgradable-factories"
+      href="https://github.com/CrisBid/Pacman-em-Cpp-Orientado-a-Objetos"
       target="_blank"
-      style="
-        font-size: 0.85rem;
-        color: #38bdf8;
-        text-decoration: none;
-      "
+      style="font-size: 0.85rem; color: #38bdf8; text-decoration: none;"
     >
       🔗 Ver repositório
     </a>
