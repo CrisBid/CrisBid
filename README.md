@@ -13,7 +13,7 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
   <a href="https://github.com/CrisBid">
     <img
       height="180"
-      src="https://SEU_DOMINIO/api?username=CrisBid&show_icons=true&theme=dracula"
+      src="https://github-readme-stats-kappa-pied-91.vercel.app/api?username=CrisBid&show_icons=true&theme=dracula"
       alt="Leandro GitHub Stats"
     />
   </a>
@@ -23,7 +23,7 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
   <a href="https://github.com/CrisBid">
     <img
       height="180"
-      src="https://SEU_DOMINIO/api/top-langs/?username=CrisBid&layout=compact&langs_count=8&theme=dracula"
+      src="https://github-readme-stats-kappa-pied-91.vercel.app/api/top-langs/?username=CrisBid&layout=compact&langs_count=8&theme=dracula"
       alt="Leandro Top Langs"
     />
   </a>
