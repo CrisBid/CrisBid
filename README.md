@@ -11,8 +11,8 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 
 <div>
   <a href="https://github.com/CrisBid">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrisBid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisBid&layout=compact&langs_count=10&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CrisBid&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CrisBid&layout=compact&theme=dracula"/>
   </a>
 </div>
 
