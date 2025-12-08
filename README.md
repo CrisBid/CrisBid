@@ -72,7 +72,159 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 > - Proxmox VE  
 > - Docker Swarm / Docker Compose  
 > - Servidores de arquivos/AD (Samba / Windows Server)  
-> - Configuração de redes, VLANs, firewall e serviços internos  
+> - Configuração de redes, VLANs, firewall e serviços internos
+
+---
+
+## 🌟 Projetos em Destaque
+
+<div align="center">
+
+  <!-- Card 1 -->
+  <div
+    style="
+      display: inline-block;
+      text-align: left;
+      max-width: 320px;
+      padding: 16px 18px;
+      margin: 8px;
+      border-radius: 12px;
+      border: 1px solid #333;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+      background: linear-gradient(145deg, #111827, #020617);
+    "
+  >
+    <h3 style="margin: 0 0 8px 0;">Amigos de Minas</h3>
+    <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
+      Plataforma de apadrinhamento de crianças e gestão de projetos sociais
+      para a ONG Amigos de Minas.
+    </p>
+    <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
+      <strong>Stack:</strong> Next.js, NestJS, Prisma, PostgreSQL, Tailwind, Docker
+    </p>
+    <a
+      href="https://github.com/CrisBid/amigos-de-minas"
+      target="_blank"
+      style="
+        font-size: 0.85rem;
+        color: #38bdf8;
+        text-decoration: none;
+      "
+    >
+      🔗 Ver repositório
+    </a>
+  </div>
+
+  <!-- Card 2 -->
+  <div
+    style="
+      display: inline-block;
+      text-align: left;
+      max-width: 320px;
+      padding: 16px 18px;
+      margin: 8px;
+      border-radius: 12px;
+      border: 1px solid #333;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+      background: linear-gradient(145deg, #111827, #020617);
+    "
+  >
+    <h3 style="margin: 0 0 8px 0;">SGAIA ERP</h3>
+    <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
+      Sistema de Gestão e Automação Inteligente para o Agronegócio,
+      com arquitetura de microsserviços.
+    </p>
+    <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
+      <strong>Stack:</strong> NestJS, Node.js, PostgreSQL, RabbitMQ, Tauri, React
+    </p>
+    <a
+      href="https://github.com/CrisBid/sgaia"
+      target="_blank"
+      style="
+        font-size: 0.85rem;
+        color: #38bdf8;
+        text-decoration: none;
+      "
+    >
+      🔗 Ver repositório
+    </a>
+  </div>
+
+  <!-- Card 3 -->
+  <div
+    style="
+      display: inline-block;
+      text-align: left;
+      max-width: 320px;
+      padding: 16px 18px;
+      margin: 8px;
+      border-radius: 12px;
+      border: 1px solid #333;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+      background: linear-gradient(145deg, #111827, #020617);
+    "
+  >
+    <h3 style="margin: 0 0 8px 0;">Molion Dashboard</h3>
+    <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
+      Dashboard climático para análise de ciclos, anomalias e séries históricas,
+      apoiando decisões no agronegócio.
+    </p>
+    <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
+      <strong>Stack:</strong> React, Next.js, APIs climáticas, Charts, PostgreSQL
+    </p>
+    <a
+      href="https://github.com/CrisBid/molion-dashboard"
+      target="_blank"
+      style="
+        font-size: 0.85rem;
+        color: #38bdf8;
+        text-decoration: none;
+      "
+    >
+      🔗 Ver repositório
+    </a>
+  </div>
+
+  <!-- Card 4 -->
+  <div
+    style="
+      display: inline-block;
+      text-align: left;
+      max-width: 320px;
+      padding: 16px 18px;
+      margin: 8px;
+      border-radius: 12px;
+      border: 1px solid #333;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+      background: linear-gradient(145deg, #111827, #020617);
+    "
+  >
+    <h3 style="margin: 0 0 8px 0;">Upgradable Factories (FS Mod)</h3>
+    <p style="margin: 0 0 6px 0; font-size: 0.9rem;">
+      Mod para Farming Simulator com sistema de melhoria de fábricas,
+      aumentando níveis de produção e armazenamento.
+    </p>
+    <p style="margin: 0 0 10px 0; font-size: 0.85rem;">
+      <strong>Stack:</strong> Lua, XML, Game Modding, Otimização de gameplay
+    </p>
+    <a
+      href="https://github.com/CrisBid/fs-upgradable-factories"
+      target="_blank"
+      style="
+        font-size: 0.85rem;
+        color: #38bdf8;
+        text-decoration: none;
+      "
+    >
+      🔗 Ver repositório
+    </a>
+  </div>
+
+</div>
+
+<p align="center" style="margin-top: 12px;">
+  🔎 <a href="https://github.com/CrisBid?tab=repositories" style="color:#38bdf8;">Ver todos os projetos no GitHub</a>
+</p>
 
 ---
 
