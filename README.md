@@ -24,77 +24,73 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 
 ## 🧠 Tecnologias & Ferramentas
 
-### 🎨 **Frontend**
+### 🎨 Frontend
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ts" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Html" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Css" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Next.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TailwindCSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
 ---
 
-### ⚙️ **Backend**
+### ⚙️ Backend
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nodejs" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Node.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Laravel" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="DotNet" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt=".NET" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="C#" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
 
-### 🗄️ **Bancos de Dados**
+### 🗄️ Bancos de Dados
 <div style="display: inline_block"><br>
   <img align="center" alt="PostgreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLite" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="MongoDB" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="SQLite" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </div>
 
 ---
 
-### 🧰 **Infra, Cloud & DevOps**
+### 🧰 Infra, Cloud & DevOps
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitHub" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Linux" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
   <img align="center" alt="AWS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="DigitalOcean" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg">
-
   <img align="center" alt="Nginx" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 </div>
 
 ---
 
-### 🖥️ **Servidores & Sistemas Operacionais que utilizo**
+### 🖥️ Servidores & Sistemas Operacionais que utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="Ubuntu" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="SUSE" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/suse/suse-original.svg">
-  <img align="center" alt="RedHat" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
+  <img align="center" alt="Red Hat" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
   <img align="center" alt="Debian" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
   <img align="center" alt="CentOS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
 </div>
 
 ---
 
-### 🛡️ **Servidores e Ambientes Corporativos**
-> (não existe ícone oficial, então coloquei como lista)
+### 🛡️ Servidores e Ambientes Corporativos
+> (sem ícone oficial, então em lista mesmo)
 
 - Univention Corporate Server (UCS)  
 - Proxmox VE  
-- Docker Swarm / Compose  
-- Servidores de arquivos Samba/AD  
-- Configuração de firewalls, VLANs e redes corporativas  
-
----
+- Docker Swarm / Docker Compose  
+- Servidores de arquivos e AD (Samba / Windows Server)  
+- Configuração de redes, VLANs, firewall e serviços internos  
 
 ---
 
