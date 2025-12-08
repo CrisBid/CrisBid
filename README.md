@@ -9,18 +9,16 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 
 ## 🚀 GitHub Stats
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img 
     height="180" 
     src="https://github-readme-stats-kappa-pied-91.vercel.app/api?username=CrisBid&show_icons=true&theme=dracula"
   />
-  
   <img 
     height="180" 
     src="https://github-readme-stats-kappa-pied-91.vercel.app/api/top-langs/?username=CrisBid&layout=compact&langs_count=8&theme=dracula"
   />
 </div>
-
 
 ---
 
