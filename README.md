@@ -9,15 +9,26 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 
 ## 🚀 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img 
-    height="180" 
-    src="https://github-readme-stats-kappa-pied-91.vercel.app/api?username=CrisBid&show_icons=true&theme=dracula"
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats-kappa-pied-91.vercel.app/api/top-langs/?username=CrisBid&layout=compact&langs_count=8&theme=dracula"
-  />
+<div align="center" style="margin-top: 20px;">
+
+  <a href="https://github.com/CrisBid" style="text-decoration: none;">
+    <img
+      height="185"
+      style="border-radius: 15px; margin: 5px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+      src="https://github-readme-stats-kappa-pied-91.vercel.app/api?username=CrisBid&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight&border_radius=12"
+      alt="Estatísticas do GitHub"
+    />
+  </a>
+
+  <a href="https://github.com/CrisBid" style="text-decoration: none;">
+    <img
+      height="185"
+      style="border-radius: 15px; margin: 5px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+      src="https://github-readme-stats-kappa-pied-91.vercel.app/api/top-langs/?username=CrisBid&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&border_radius=12"
+      alt="Linguagens mais usadas"
+    />
+  </a>
+
 </div>
 
 ---
