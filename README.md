@@ -1,9 +1,12 @@
-## 👋 Oi! Eu sou o Leandro Cesar Pereira  
+## 👋 Olá! Eu sou o Leandro Cesar Pereira  
 
-Sou Desenvolvedor Full Stack Web/Mobile, apaixonado por transformar ideias em soluções reais.  
-Trabalho com **React, React Native, Node.js, PHP/Laravel, C#/.NET, PostgreSQL, MySQL**, além de forte domínio em **Git/GitHub, servidores, infraestrutura, cloud e redes**.  
+Sou **Analista de Desenvolvimento de Sistemas e Desenvolvedor Full Stack Web/Mobile**, atuando no desenvolvimento de soluções corporativas, integrações entre sistemas e automação de processos empresariais. Tenho experiência na construção de aplicações web e mobile, APIs REST e integrações com ERP, especialmente **SAP Business One (HANA e SQL Server)**, incluindo desenvolvimento de customizações, AddOns e integrações via arquitetura de serviços.
 
-Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e eficientes.
+Trabalho com tecnologias como **React, React Native, Node.js, NestJS, C#/.NET, Python**, além de bancos de dados **SQL Server, PostgreSQL e MySQL**, sempre buscando desenvolver aplicações modernas, escaláveis e eficientes.  
+
+Também possuo experiência em **microsserviços, mensageria, infraestrutura de servidores Linux e Windows Server, cloud, redes corporativas e DevOps**, atuando desde a modelagem até o deploy e sustentação das soluções em produção.
+
+Busco constantemente evoluir em **arquitetura de sistemas, soluções corporativas e plataformas ERP**, transformando necessidades de negócio em soluções tecnológicas completas.
 
 ---
 
@@ -35,19 +38,34 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 
 ## 🧠 Tecnologias & Ferramentas
 
-### 🎨 Frontend
+### 🏢 ERP & Integrações
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs,postgres,mysql&theme=dark&perline=6" />
   </a>
 </p>
+
+> Experiência com:
+> - SAP Business One (HANA / SQL Server)
+> - Integrações via APIs REST e Service Layer
+> - Desenvolvimento de AddOns e automações corporativas
+> - Modelagem de dados e integrações de sistemas
 
 ---
 
 ### ⚙️ Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,dotnet,cs,python&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs,python,fastapi&theme=dark&perline=6" />
+  </a>
+</p>
+
+---
+
+### 🎨 Frontend & Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,flutter&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -56,16 +74,16 @@ Busco sempre aprender, evoluir e entregar aplicações modernas, escaláveis e e
 ### 🗄️ Bancos de Dados
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark&perline=4" />
   </a>
 </p>
 
 ---
 
-### 🧰 Infra, Cloud & DevOps
+### 🧰 Arquitetura, DevOps & Infraestrutura
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,digitalocean,nginx&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github&theme=dark&perline=6" />
   </a>
 </p>
 
